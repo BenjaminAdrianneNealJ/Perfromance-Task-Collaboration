@@ -2,7 +2,6 @@
 <head>
 <title> Performace Task Homepage </title>
 </head>
-<body>
 <style>
 Body{
 Background-image:url('Background.jpg');
@@ -11,6 +10,7 @@ Background-attachment:fixed;
 Background-size:100% 100%;
 }
 </style>
+<body>
 <br>
 <br>
 <br>
