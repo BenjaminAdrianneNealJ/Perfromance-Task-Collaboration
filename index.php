@@ -1,20 +1,15 @@
 <html>
 <head>
 <title> Performace Task Homepage </title>
-
+</head>
 <style>
-
 Body{
-
 Background-image:url('Background.jpg');
 Background-repeat:no-repeat;
 Background-attachment:fixed;
 Background-size:100% 100%;
-
 }
-
 </style>
-</head>
 <body>
 <br>
 <br>
