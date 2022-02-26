@@ -29,9 +29,9 @@ Background-size:100% 100%;
 <font face="Calibre" size="12" color="#000000"> 
 <a href="#"> CAE </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#https://performancetaskcollaboration.herokuapp.com"> CLE </a>
+<a href="https://performancetaskcollaboration.herokuapp.com"> CLE </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#https://performancetaskcollaboration.herokuapp.com"> MATH </a>
+<a href="https://performancetaskcollaboration.herokuapp.com"> MATH </a>
 </font face>
 </body>
 </html>
